@@ -2,7 +2,7 @@
 
 - **[Wander](https://lekta.github.io/wander/)** — файловый и медиа-менеджер для Windows 10 и 11: мгновенный просмотр фото, RAW и видео, отбор снимков, групповые операции ([код](https://github.com/lekta/wander)).
 - **[GameDev Digest](https://lekta.github.io/gamedev_digest/)** — ежедневная сводка новостей геймдева для Unity и C# ([код](https://github.com/lekta/gamedev_digest)).
-- **[NoEcs](https://noecs-demo.pages.dev/)** — демо организации данных на 10к сущностей без использования ECS, запускается в браузере.
+- **[NoEcs](https://noecs-demo.pages.dev/)** — демо организации данных на 10к сущностей без использования ECS, запускается в браузере ([код](https://github.com/lekta/NoEcsDemo)).
 
 <!--
 Корень хоста lekta.github.io. GitHub Pages отдаёт корень только из
